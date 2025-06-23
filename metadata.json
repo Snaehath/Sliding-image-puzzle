@@ -1,0 +1,6 @@
+{
+  "name": "Sliding Image Puzzle Game",
+  "description": "A classic sliding puzzle game where users can upload an image, choose a grid size, and try to reassemble the scrambled image. Features include move tracking, timer, and image preview.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
